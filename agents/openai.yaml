@@ -1,0 +1,6 @@
+interface:
+  display_name: "横屏科技素材策划"
+  short_description: "基于成稿文案生成素材、Manim、动效和AI视频提示词"
+  default_prompt: "Use $tech-video-asset-planner 根据我提供的成稿文案，生成文案 txt，以及横屏 16:9 素材资源、Manim 原理动画、Remotion 动效和 AI 视频提示词 md。"
+policy:
+  allow_implicit_invocation: true
